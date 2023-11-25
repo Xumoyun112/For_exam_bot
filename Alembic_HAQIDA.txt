@@ -1,0 +1,8 @@
+
+                                           ALEMBIC
+
+Alembic bu ORM ga tegishli bulib database ning strukturasi va sxemasini migratsiya qilish uchun ishlatiladi.
+Alembic databasedagi malumotlarni filtirlash uqish uchun yozilgan sckriptlarni boshqarishda foydalaniladi.
+Undan tashqari alembic yordamida databasening strukturasiga uzgartirishlar kiritish mumkin yani yangi tablelar
+qushish tablelarni uchirishda. Alembic ORM uchun yozilgan API hisoblanib foydalanish qulay bulganligi sababli
+keng qullanilib keladi!!!
